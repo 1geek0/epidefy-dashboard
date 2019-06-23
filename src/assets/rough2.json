@@ -1,0 +1,220 @@
+{
+    "data": [
+      {
+        "lat": 19.001165,
+        "lng": 72.815667,
+        "no. of sick people": 9,
+        "timestamp": 1561269600,
+        "suspected diseases": [
+          {
+            "Leptospirosis": 3
+          },
+          {
+            "Dengue Fever": 4
+          },
+          {
+            "Acute Diarrhoea/Cholera": 2
+          }
+        ],
+        "unique id": 100
+      },
+      {
+        "lat": 19.006247,
+        "lng": 72.818113,
+        "no. of sick people": 5,
+        "timestamp": 1561280400,
+        "suspected diseases": [
+          {
+            "Leptospirosis": 2
+          },
+          {
+            "Dengue Fever": 1
+          },
+          {
+            "Acute Diarrhoea/Cholera": 2
+          }
+        ],
+        "unique id": 101
+      },
+      {
+        "lat": 19.008215,
+        "lng": 72.817212,
+        "no. of sick people": 7,
+        "timestamp": 1561291200,
+        "suspected diseases": [
+          {
+            "Leptospirosis": 3
+          },
+          {
+            "Dengue Fever": 2
+          },
+          {
+            "Acute Diarrhoea/Cholera": 2
+          }
+        ],
+        "unique id": 102
+      },
+      {
+        "lat": 19.010071,
+        "lng": 72.815656,
+        "no. of sick people": 9,
+        "timestamp": 1561302000,
+        "suspected diseases": [
+          {
+            "Leptospirosis": 3
+          },
+          {
+            "Dengue Fever": 4
+          },
+          {
+            "Acute Diarrhoea/Cholera": 2
+          }
+        ],
+        "unique id": 103
+      },
+      {
+        "lat": 19.012140,
+        "lng": 72.816879,
+        "no. of sick people": 5,
+        "timestamp": 1561312800,
+        "suspected diseases": [
+          {
+            "Leptospirosis": 2
+          },
+          {
+            "Dengue Fever": 1
+          },
+          {
+            "Acute Diarrhoea/Cholera": 2
+          }
+        ],
+        "unique id": 104
+      },
+      {
+        "lat": 19.011805,
+        "lng": 72.819733,
+        "no. of sick people": 7,
+        "timestamp": 1561323600,
+        "suspected diseases": [
+          {
+            "Leptospirosis": 3
+          },
+          {
+            "Dengue Fever": 2
+          },
+          {
+            "Acute Diarrhoea/Cholera": 2
+          }
+        ],
+        "unique id": 105
+      },
+      {
+        "lat": 19.009817,
+        "lng": 72.821224,
+        "no. of sick people": 9,
+        "timestamp": 1561269600,
+        "suspected diseases": [
+          {
+            "Leptospirosis": 3
+          },
+          {
+            "Dengue Fever": 4
+          },
+          {
+            "Acute Diarrhoea/Cholera": 2
+          }
+        ],
+        "unique id": 106
+      },
+      {
+        "lat": 19.008184,
+        "lng": 72.820366,
+        "no. of sick people": 5,
+        "timestamp": 1561280400,
+        "suspected diseases": [
+          {
+            "Leptospirosis": 2
+          },
+          {
+            "Dengue Fever": 1
+          },
+          {
+            "Acute Diarrhoea/Cholera": 2
+          }
+        ],
+        "unique id": 107
+      },
+      {
+        "lat": 19.006642,
+        "lng": 72.821600,
+        "no. of sick people": 7,
+        "timestamp": 1561291200,
+        "suspected diseases": [
+          {
+            "Leptospirosis": 3
+          },
+          {
+            "Dengue Fever": 2
+          },
+          {
+            "Acute Diarrhoea/Cholera": 2
+          }
+        ],
+        "unique id": 108
+      },
+      {
+        "lat": 19.004420,
+        "lng": 72.820484,
+        "no. of sick people": 9,
+        "timestamp": 1561302000,
+        "suspected diseases": [
+          {
+            "Leptospirosis": 3
+          },
+          {
+            "Dengue Fever": 4
+          },
+          {
+            "Acute Diarrhoea/Cholera": 2
+          }
+        ],
+        "unique id": 109
+      },
+      {
+        "lat": 19.003304,
+        "lng": 72.816235,
+        "no. of sick people": 5,
+        "timestamp": 1561312800,
+        "suspected diseases": [
+          {
+            "Leptospirosis": 2
+          },
+          {
+            "Dengue Fever": 1
+          },
+          {
+            "Acute Diarrhoea/Cholera": 2
+          }
+        ],
+        "unique id": 110
+      },
+      {
+        "lat": 19.002594,
+        "lng": 72.819432,
+        "no. of sick people": 7,
+        "timestamp": 1561323600,
+        "suspected diseases": [
+          {
+            "Leptospirosis": 3
+          },
+          {
+            "Dengue Fever": 2
+          },
+          {
+            "Acute Diarrhoea/Cholera": 2
+          }
+        ],
+        "unique id": 111
+      }
+    ]
+  }
